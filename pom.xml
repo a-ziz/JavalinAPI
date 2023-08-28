@@ -31,6 +31,8 @@
             <artifactId>slf4j-simple</artifactId>
             <version>1.7.26</version>
         </dependency>
+
+<!--        java library to convert objects to json-->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
